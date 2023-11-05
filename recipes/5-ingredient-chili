@@ -1,0 +1,46 @@
+<!DOCtype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+
+    <body>
+
+        <h1>5 Ingredient Chili</h1>
+
+        <ul>
+
+            <a href="recipes/5-ingredient-chili.jpeg">5 Ingredient Chili</a>
+
+        </ul>
+
+        <h2>Chili Recipe</h2>
+
+        <p>This is a great chili recipe that is very easy and fast to make that everyone will enjoy!</p>
+
+        <h2>Ingredients</h2>
+
+        <ul>
+            <li>1 pound lean ground beef</li>
+            <li>1 (15 ounces) can tomato sauce</li>
+            <li>1 (15ounce) can of kidney beans, drained</li>
+            <li>1 (15 ounce) can of chili beans, not drained</li>
+            <li>2 tbsp chili powder, or to taste</li>
+            <li>1 cup shredded cheddar cheese</li>
+            <li>salt and pepper to taste</li>
+        </ul>
+
+        <h2>Directions</h2>
+
+        <ol>
+            <li>1. In a large skillet over medium heat brown the ground beef for about 5-7 minutes</li>
+            <li>2. Add the kidney beans, chili beans and tomato sauce stirring until boiling</li>
+            <li>3. Reduce heat to a simmer and add the chili powder to taste</li>
+            <li>4. Allow chili to thicken on simmer to desired consistency</li>
+            <li>5. Serve warm with shredded cheese on top if desired</li>
+        </ol>
+
+    </body>
+
+</html>
